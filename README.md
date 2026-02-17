@@ -1,4 +1,4 @@
 # newpractice
 this is my first git repositiory.
 <br>
-Author - Avi sunar 
+Author - Avi sunar (author)
